@@ -1,0 +1,16 @@
+
+p {
+  font-size: larger;
+}
+
+.navbar.navbar-inverse {
+  background-color: #67849A !important;
+}
+
+h1, h2, h3 {
+  color: #294053 !important
+}
+
+.control-label {
+  font-weight: bolder;
+}
